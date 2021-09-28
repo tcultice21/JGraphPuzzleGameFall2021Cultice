@@ -115,9 +115,9 @@ They contain the general structure, for generating your own:
 
 
 * encoding for the board is as follows:
-0-2 = Red, size 1 to 3
-3-5 = Green, size 1 to 3
-6-8 = Blue, size 1 to 3
-9-B = Purple, size 1 to 3
-C-E = Yellow, size 1 to 3
-F = BLOCKED TILE
+- 0-2 = Red, size 1 to 3
+- 3-5 = Green, size 1 to 3
+- 6-8 = Blue, size 1 to 3
+- 9-B = Purple, size 1 to 3
+- C-E = Yellow, size 1 to 3
+- F = BLOCKED TILE
