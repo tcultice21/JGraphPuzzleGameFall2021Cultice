@@ -1,4 +1,4 @@
-# JGraphPuzzleGameFall2021Cultice
+# JGraph Tiled Puzzle Game (Fall 2021, Lab 1)
 ## Description/Details
 This program will allow the user to use standard-in (STDIN) to play
 a puzzle game, using output from JGraph.
