@@ -12,9 +12,8 @@ ends and presents results after 10 turns. Several savestates are
 provided within the makefile.
 
 To make a match, you must:
-
--Select 3+ tiles of the same color
--They must be adjacent
+- Select 3+ tiles of the same color
+- They must be adjacent
 
 When a match is completed, adjacent shapes will grow in size. At 4x the size, they will break and chain react with
 any other surrounding it for bonus score multiplier.
