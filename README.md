@@ -94,15 +94,15 @@ This is a full green pattern, which would generate quite a few points.
 
 ### Typical Game:
 This is a typical game look, with randomly generated sizes and shapes scattered around.
-![alt text][logo]
+![alt text][vic]
 
-[logo]: https://github.com/tcultice21/JGraphPuzzleGameFall2021Cultice/blob/main/Images/victory.jpg "Victory"
+[vic]: https://github.com/tcultice21/JGraphPuzzleGameFall2021Cultice/blob/main/Images/victory.jpg "Victory"
 
 ### Game over screen:
 This is the game over screen shown when the game is completed.
-![alt text][logo]
+![alt text][gameover]
 
-[logo]: https://github.com/tcultice21/JGraphPuzzleGameFall2021Cultice/blob/main/Images/gameover.jpg "Game over"
+[gameover]: https://github.com/tcultice21/JGraphPuzzleGameFall2021Cultice/blob/main/Images/gameover.jpg "Game over"
 
 ## Save files
 Save file format can be seen in the /saveStates/ folder.
