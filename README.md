@@ -39,5 +39,18 @@ Several examples are within the makefile, using the commands:
 - green: generate game with size variation green pattern
 - purpleandyellow: generate game of purple and yellow
 - save: generate game and save it as testGame.txt
-All Generated files by this makefile 
+All Generated files by these examples are removed by 'make clean' as well.
 These examples also compile the binary.
+
+To manually run the program, one can run with two sets of input arguments:
+./puzzle
+OR
+./puzzle -s fileName
+This chooses between saving and not saving; if the fileName doesn't exist, it will create a new game and save it there.
+Otherwise, it will load fileName, and error out of the file is not in the right format.
+
+## Examples
+
+![alt text][logo]
+
+[logo]: https://github.com/AndrewCrittenden/comfortControl/raw/main/ClientCOMFORT/image.PNG "Typical output of program"
